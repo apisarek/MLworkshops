@@ -1,0 +1,4 @@
+https://github.com/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb
+https://github.com/donnemartin/data-science-ipython-notebooks #tutaj jest mnóstwo dobrych rzeczy
+http://pandas.pydata.org/pandas-docs/stable/10min.html
+http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/
