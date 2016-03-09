@@ -1,0 +1,10 @@
+https://github.com/hangtwenty/dive-into-machine-learning
+https://github.com/mnielsen/neural-networks-and-deep-learning
+https://github.com/josephmisiti/awesome-machine-learning
+https://github.com/donnemartin/data-science-ipython-notebooks
+https://github.com/fchollet/keras
+https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
+https://github.com/ogrisel/parallel_ml_tutorial
+https://github.com/jakevdp/sklearn_pycon2015
+https://github.com/rasbt/python_reference
